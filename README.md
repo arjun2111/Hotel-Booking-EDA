@@ -7,9 +7,13 @@ In this exploratory data analysis project, we delve into a comprehensive dataset
 The dataset hotel_bookings.csv is a rich compilation of booking information that includes:
 
 Guest demographics
+
 Stay durations
+
 Booking cancellations
+
 Room prices
+
 Special requests and more
 
 The initial data cleaning involved handling missing values, removing erroneous entries, and preparing subsets of data for detailed analysis. For example, entries with zero guests were removed, and missing values in columns like 'country', 'agent', and 'company' were appropriately filled or replaced.
